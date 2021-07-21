@@ -1,0 +1,29 @@
+
+.backgraound-info{
+    background-color: #fceae8;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 8px;
+}
+.Product-price-color{
+    color: #FF589B;
+}
+.categories-1{
+    background-color: orange;
+    color: white;
+    border-radius: 8px;
+}
+.categories-2{
+    background-color: orchid;;
+    color: white;
+    border-radius: 8px;
+}
+.categories-3{
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+}
